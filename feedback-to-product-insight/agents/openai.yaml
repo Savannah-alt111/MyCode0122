@@ -1,0 +1,4 @@
+interface:
+  display_name: "Feedback to Product Insight"
+  short_description: "Turn user feedback into evidence-backed product insights"
+  default_prompt: "Use $feedback-to-product-insight to analyze this feedback and produce traceable product insights and research questions."
